@@ -1,0 +1,5 @@
+# gitignore file #
+
+.stack-work
+_cache
+_site
